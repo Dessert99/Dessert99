@@ -1,6 +1,4 @@
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dessert99&layout=compact&theme=tokyonight" alt="My Top Languages"/>
-</div>
+
 
 ## 🌐 Frontend  
 <div>
