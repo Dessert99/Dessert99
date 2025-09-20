@@ -1,8 +1,7 @@
 
-[![Anurag's GitHub stats - Dark](https://github-readme-stats.vercel.app/api?username=Dessert99&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats)
+## "정석✅  효율✅  근거✅ - 제 작업의 기준입니다."
 
-
-
+---
 ## Languages
 <div>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white">
@@ -49,3 +48,9 @@
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js Badge" />
   <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white">
 </div>
+
+---
+
+[![Anurag's GitHub stats - Dark](https://github-readme-stats.vercel.app/api?username=Dessert99&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats)
+
+
