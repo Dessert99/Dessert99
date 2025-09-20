@@ -17,6 +17,7 @@
 ## Frameworks
 <div>
   <img src="https://img.shields.io/badge/React%20Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
+  <img src="https://img.shields.io/badge/Expo-20232A?style=for-the-badge&logo=expo&logoColor=white">
 </div>
 
 ## Build Tools
