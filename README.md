@@ -24,9 +24,9 @@
         <img src="https://img.shields.io/badge/Expo-20232A?style=for-the-badge&logo=expo&logoColor=white"> 
         <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white">
       </td>
-      <td align="center">
-        <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white">
-      </td>
+     <td align="center">
+  <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white">
+</td>
     </tr>
   </tbody>
 </table>
