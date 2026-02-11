@@ -36,15 +36,9 @@
 <table>
   <tr>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=Dessert99&show_icons=true&theme=dark#gh-dark-mode-only" height="180em" />
-    </td>
-    <td>
       <a href="https://solved.ac/dessert99">
         <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=dessert99" alt="Solved.ac Profile" />
       </a>
-    </td>
-        <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dessert99&layout=donut" height="180em" />
     </td>
   </tr>
 </table>
